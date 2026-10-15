@@ -1,2 +1,3 @@
 # PSQlit
-in development
+(In Development)
+Coming Soon...
